@@ -7,3 +7,4 @@ Generated it using express
 - Run ``$ npm install``
 - Start dev serve ``$ npm start``
 - Start dev serve in debug mode ``$ DEBUG=myapp:* npm start``
+- goto ``http://localhost:3000/products`` to see the api response
